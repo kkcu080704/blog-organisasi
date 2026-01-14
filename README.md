@@ -28,7 +28,7 @@ Aplikasi web berbasis Laravel untuk pengelolaan konten berita, kegiatan (event),
 * **CRUD Artikel:**
     * Tambah/Edit/Hapus artikel.
     * **TinyMCE Editor:** Penulisan konten dengan fitur Bold, Italic, List, dll.
-    * **Image Upload:** Mendukung upload gambar thumbnail (disimpan di `public/storage/posts`).
+    * **Image Upload:** Mendukung upload gambar thumbnail (disimpan di `public/storage`).
     * **Slug Otomatis:** URL artikel dibuat otomatis ramah SEO (SEO-friendly).
 * **Manajemen Gambar:** Hapus gambar otomatis dari server saat artikel dihapus.
 

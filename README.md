@@ -35,7 +35,7 @@ Aplikasi web berbasis Laravel untuk pengelolaan konten berita, kegiatan (event),
 ---
 
 ## 🛠️ Teknologi yang Digunakan
-* **Framework:** Laravel 10/11
+* **Framework:** Laravel 12
 * **Database:** MySQL
 * **Bahasa:** PHP 8.1+
 * **Frontend:** Blade Template + Tailwind CSS (CDN)
